@@ -69,6 +69,14 @@ make
 ./eight_queen
 ```
 
+### 木棒问题
+```bash
+cd sticksorter
+qmake StickSorter.pro
+make
+./StickSorter
+```
+
 ## 注意事项
 
 1. 确保已安装Qt开发环境
